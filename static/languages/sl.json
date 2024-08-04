@@ -1,13 +1,12 @@
 {
-  "heading": "Emisije toplogrednih plinov zaradi porabe energije v stavbah po vsej EU",
-  "subheading": "Odstotek spremembe emisij iz fosilnih goriv, uporabljenih v stavbah med letoma 2005 in 2019. Skupne emisije toplogrednih plinov v EU iz stavb so se v obdobju 2005–2019 zmanjšale za 29 %",
-  "legend1": "Ni podatkov",
+  "heading": "Kako so se emisije toplogrednih plinov zaradi porabe energije v stavbah spremenile po EU?",
+  "subheading": "Odstotek spremembe emisij iz fosilnih goriv, uporabljenih v stavbah med letoma 2005 in 2021. Skupne emisije toplogrednih plinov v EU iz stavb so se v obdobju 2005–2021 zmanjšale za 22 %.",
+  "legend1": "Podatki niso na voljo",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Evropska agencija za okolje",
   "textNoteDescription": "Opomba",
   "textNote": "",
   "textDataAccess": "Dostopajte do podatkov",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Kliknite za več informacij"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20višje%20temperature"
 }

@@ -1,13 +1,12 @@
 {
-  "heading": "Drivhusgasemissioner fra energiforbrug i bygninger i hele EU",
-  "subheading": "Procentvis ændring i emissioner fra fossile brændstoffer brugt i bygninger mellem 2005 og 2019. De samlede EU's drivhusgasemissioner fra bygninger faldt med 29 % i perioden 2005-2019",
+  "heading": "Hvordan ændrede drivhusgasemissionerne sig fra energiforbrug i bygninger i hele EU?",
+  "subheading": "Procentvis ændring i emissioner fra fossile brændstoffer brugt i bygninger mellem 2005 og 2021. EU's samlede drivhusgasemissioner fra bygninger faldt med 22 % i perioden 2005-2021.",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Det Europæiske Miljøagentur",
   "textNoteDescription": "Bemærk",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Klik for mere info"
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20varmere%20temperaturer"
 }

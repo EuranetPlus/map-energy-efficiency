@@ -1,6 +1,6 @@
 {
-  "heading": "Greenhouse gas emissions from energy use in buildings across the EU",
-  "subheading": "Percentage change in emissions from fossil fuels used in buildings between 2005 and 2019. Total EU GHG emissions from buildings decreased by 29% over the period 2005-2019",
+  "heading": "How did greenhouse gas emissions from energy use in buildings change across the EU?",
+  "subheading": "Percentage change in emissions from fossil fuels used in buildings between 2005 and 2021. Total EU GHG emissions from buildings decreased by 22% over the period 2005-2021.",
   "legend1": "No data available",
   "tooltip1": "",
   "textSourceDescription": "Source",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Click for more info"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }

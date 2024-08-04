@@ -1,6 +1,6 @@
 {
-  "heading": "Az épületek energiafelhasználásából származó üvegházhatású gázok kibocsátása EU-szerte",
-  "subheading": "Az épületekben használt fosszilis tüzelőanyagok kibocsátásának százalékos változása 2005 és 2019 között. Az épületekből származó teljes EU ÜHG-kibocsátás 29%-kal csökkent a 2005–2019 közötti időszakban",
+  "heading": "Hogyan változott az épületek energiafelhasználásából származó üvegházhatású gázok kibocsátása EU-szerte?",
+  "subheading": "Az épületekben használt fosszilis tüzelőanyagok kibocsátásának százalékos változása 2005 és 2021 között. Az épületekből származó teljes EU ÜHG-kibocsátás 22%-kal csökkent a 2005–2021 közötti időszakban.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
@@ -8,6 +8,5 @@
   "textNoteDescription": "jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "További információért kattintson"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20melegebb%20hőmérséklet"
 }

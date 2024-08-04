@@ -1,6 +1,6 @@
 {
-  "heading": "Emisiones de gases de efecto invernadero por el uso de energía en edificios en toda la UE",
-  "subheading": "Cambio porcentual en las emisiones de los combustibles fósiles utilizados en los edificios entre 2005 y 2019. Las emisiones totales de GEI de la UE de los edificios disminuyeron un 29 % durante el período 2005-2019",
+  "heading": "¿Cómo cambiaron en toda la UE las emisiones de gases de efecto invernadero procedentes del uso de energía en los edificios?",
+  "subheading": "Cambio porcentual en las emisiones de combustibles fósiles utilizados en edificios entre 2005 y 2021. Las emisiones totales de GEI de los edificios en la UE disminuyeron un 22 % durante el período 2005-2021.",
   "legend1": "Datos no disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Haga clic para obtener más información"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20temperaturas%20más cálidas"
 }

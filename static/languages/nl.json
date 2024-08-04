@@ -1,6 +1,6 @@
 {
-  "heading": "Broeikasgasemissies door energieverbruik in gebouwen in de hele EU",
-  "subheading": "Procentuele verandering in emissies van fossiele brandstoffen die in gebouwen worden gebruikt tussen 2005 en 2019. De totale EU-BKG-emissies van gebouwen daalden met 29% in de periode 2005-2019",
+  "heading": "Hoe is de uitstoot van broeikasgassen door het energieverbruik in gebouwen in de hele EU veranderd?",
+  "subheading": "Procentuele verandering in de uitstoot van fossiele brandstoffen die in gebouwen worden gebruikt tussen 2005 en 2021. De totale broeikasgasemissies van gebouwen in de EU zijn in de periode 2005-2021 met 22% afgenomen.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Opmerking",
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Klik voor meer info"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20warmer%20temperaturen"
 }

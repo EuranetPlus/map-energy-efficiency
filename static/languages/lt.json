@@ -1,6 +1,6 @@
 {
-  "heading": "Šiltnamio efektą sukeliančių dujų išmetimas naudojant energiją pastatuose visoje ES",
-  "subheading": "Pastatuose naudojamo iškastinio kuro emisijų procentinis pokytis 2005–2019 m. Bendras ES šiltnamio efektą sukeliančių dujų išmetimas iš pastatų sumažėjo 29 % 2005–2019 m.",
+  "heading": "Kaip visoje ES pasikeitė šiltnamio efektą sukeliančių dujų išmetimas dėl energijos vartojimo pastatuose?",
+  "subheading": "Pastatuose naudojamo iškastinio kuro emisijų procentinis pokytis 2005–2021 m. Bendras ES šiltnamio efektą sukeliančių dujų išmetimas iš pastatų sumažėjo 22 % 2005–2021 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Pastaba",
   "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20šiltesnė %20temperatūra"
 }

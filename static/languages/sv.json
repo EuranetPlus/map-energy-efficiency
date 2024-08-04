@@ -1,6 +1,6 @@
 {
-  "heading": "Växthusgasutsläpp från energianvändning i byggnader i hela EU",
-  "subheading": "Procentuell förändring av utsläpp från fossila bränslen som används i byggnader mellan 2005 och 2019. EU:s totala växthusgasutsläpp från byggnader minskade med 29 % under perioden 2005–2019",
+  "heading": "Hur förändrades växthusgasutsläppen från energianvändning i byggnader inom EU?",
+  "subheading": "Procentuell förändring av utsläppen från fossila bränslen som används i byggnader mellan 2005 och 2021. EU:s totala växthusgasutsläpp från byggnader minskade med 22 % under perioden 2005–2021.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "",
   "textSourceDescription": "Källa",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Notera",
   "textNote": "",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Klicka för mer info"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20varmare%20temperaturer"
 }

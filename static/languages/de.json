@@ -1,13 +1,12 @@
 {
-  "heading": "Treibhausgasemissionen aus der Energienutzung in Gebäuden in der gesamten EU",
-  "subheading": "Prozentuale Veränderung der Emissionen aus fossilen Brennstoffen, die zwischen 2005 und 2019 in Gebäuden verwendet wurden. Die gesamten EU-THG-Emissionen aus Gebäuden gingen im Zeitraum 2005-2019 um 29 % zurück",
+  "heading": "Wie haben sich die Treibhausgasemissionen aus der Energienutzung von Gebäuden in der EU verändert?",
+  "subheading": "Prozentuale Veränderung der Emissionen aus fossilen Brennstoffen, die in Gebäuden zwischen 2005 und 2021 verwendet werden. Die gesamten Treibhausgasemissionen von Gebäuden in der EU sind im Zeitraum 2005–2021 um 22 % gesunken.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "Europäische Umweltagentur",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textDataAccess": "Zugriff auf die Daten",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20wärmere%20Temperaturen"
 }

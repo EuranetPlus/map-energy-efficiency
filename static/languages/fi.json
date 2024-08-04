@@ -1,6 +1,6 @@
 {
-  "heading": "Kasvihuonekaasupäästöt rakennusten energiankäytöstä kaikkialla EU:ssa",
-  "subheading": "Rakennuksissa käytettyjen fossiilisten polttoaineiden päästöjen prosentuaalinen muutos vuosina 2005–2019. EU:n rakennusten kasvihuonekaasujen kokonaispäästöt laskivat 29 % vuosina 2005–2019",
+  "heading": "Miten rakennusten energiankäytöstä aiheutuvat kasvihuonekaasupäästöt muuttuivat EU:ssa?",
+  "subheading": "Rakennuksissa käytettyjen fossiilisten polttoaineiden päästöjen prosentuaalinen muutos vuosina 2005–2021. EU:n rakennusten kasvihuonekaasujen kokonaispäästöt vähenivät 22 % vuosina 2005–2021.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
@@ -8,6 +8,5 @@
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/indicators/greenhouse-gas-emissions-from-energy/assessment",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20 lämpimämpää %20 lämpötilaa"
 }
