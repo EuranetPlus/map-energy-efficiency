@@ -1,12 +1,12 @@
 {
-  "heading": "Kuidas muutusid hoonete energiakasutusest tulenevad kasvuhoonegaaside heitkogused kogu ELis?",
-  "subheading": "Ehitistes kasutatud fossiilkütuste heitkoguste protsentuaalne muutus aastatel 2005–2021. ELi hoonete kasvuhoonegaaside koguheide vähenes aastatel 2005–2021 22%.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Energiatõhusamate hoonete renoveerimine: milline on meie seis?",
+  "subheading": "Kaart, mis näitab hoonetes kasutatavate fossiilkütuste heitkoguste protsentuaalset muutust aastatel 2005–2022. Hoonete energiatarbimisest tulenevad kasvuhoonegaaside heitkogused on selle aja jooksul vähenenud 34%.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Keskkonnaagentuur",
-  "textNoteDescription": "Märge",
+  "textNoteDescription": "Märkus",
   "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20soojem%20temperatuur"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sektorid%2C%20ja%20soojemad%20temperatuurid"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Πώς άλλαξαν οι εκπομπές αερίων θερμοκηπίου από τη χρήση ενέργειας σε κτίρια σε ολόκληρη την ΕΕ;",
-  "subheading": "Ποσοστιαία μεταβολή στις εκπομπές από ορυκτά καύσιμα που χρησιμοποιούνται σε κτίρια μεταξύ 2005 και 2021. Οι συνολικές εκπομπές αερίων του θερμοκηπίου της ΕΕ από τα κτίρια μειώθηκαν κατά 22% κατά την περίοδο 2005-2021.",
+  "heading": "Ανακαινίσεις για πιο ενεργειακά αποδοτικά κτίρια: πού βρισκόμαστε;",
+  "subheading": "Χάρτης που δείχνει την ποσοστιαία μεταβολή των εκπομπών από τα ορυκτά καύσιμα που χρησιμοποιούνται σε κτίρια μεταξύ 2005 και 2022. Οι εκπομπές αερίων του θερμοκηπίου από την κατανάλωση ενέργειας στα κτίρια έχουν μειωθεί κατά 34% κατά τη διάρκεια αυτής της περιόδου.",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "",
   "textSourceDescription": "Πηγή",
   "textSource": "Ευρωπαϊκός Οργανισμός Περιβάλλοντος",
-  "textNoteDescription": "Σημείωση",
+  "textNoteDescription": "Σημείωμα",
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20θερμότερες%20θερμοκρασίες"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }

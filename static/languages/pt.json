@@ -1,12 +1,12 @@
 {
-  "heading": "Como é que as emissões de gases com efeito de estufa provenientes da utilização de energia nos edifícios mudaram em toda a UE?",
-  "subheading": "Alteração percentual nas emissões provenientes de combustíveis fósseis utilizados nos edifícios entre 2005 e 2021. As emissões totais de GEE provenientes dos edifícios na UE diminuíram 22% durante o período 2005-2021.",
-  "legend1": "Não há dados disponíveis",
+  "heading": "Reforma para edifícios mais eficientes em termos energéticos: onde estamos?",
+  "subheading": "Mapa mostrando a variação percentual nas emissões de combustíveis fósseis usados em edifícios entre 2005 e 2022. As emissões de gases de efeito estufa provenientes do consumo de energia em edifícios caíram 34% nesse período.",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Agência Europeia do Ambiente",
   "textNoteDescription": "Observação",
   "textNote": "",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://www.eea.europa.eu/en/análise/indicadores/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20e %20mais quentes%20temperaturas"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }

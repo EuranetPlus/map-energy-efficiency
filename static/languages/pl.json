@@ -1,12 +1,12 @@
 {
-  "heading": "Jak zmieniły się emisje gazów cieplarnianych wynikające ze zużycia energii w budynkach w całej UE?",
-  "subheading": "Procentowa zmiana emisji z paliw kopalnych wykorzystywanych w budynkach w latach 2005–2021. Całkowite emisje gazów cieplarnianych w UE z budynków spadły o 22% w latach 2005–2021.",
+  "heading": "Modernizacja budynków w celu zwiększenia ich efektywności energetycznej: na jakim etapie jesteśmy?",
+  "subheading": "Mapa przedstawiająca procentową zmianę emisji pochodzących ze spalania paliw kopalnych w budynkach w latach 2005–2022. Emisja gazów cieplarnianych spowodowana zużyciem energii w budynkach spadła w tym okresie o 34%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "Europejska Agencja Środowiska",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analytic/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20cieplejsze%20temperatury"
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Conas a d’athraigh astuithe gáis cheaptha teasa ó úsáid fuinnimh i bhfoirgnimh ar fud an AE?",
-  "subheading": "Céatadán an athraithe ar astuithe ó bhreoslaí iontaise a úsáideadh i bhfoirgnimh idir 2005 agus 2021. Tháinig laghdú 22% ar astuithe GHG iomlán an AE ó fhoirgnimh thar an tréimhse 2005-2021.",
+  "heading": "Athchóiriú le haghaidh foirgneamh níos éifeachtúla ó thaobh fuinnimh de: cá seasann muid?",
+  "subheading": "Léarscáil ina léirítear an t-athrú céatadáin in astaíochtaí ó bhreoslaí iontaise a úsáidtear i bhfoirgnimh idir 2005 agus 2022. Tá astaíochtaí gás ceaptha teasa ó thomhaltas fuinnimh i bhfoirgnimh tite faoi 34% le linn na tréimhse seo.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "",
   "textSourceDescription": "Foinse",
-  "textSource": "An Ghníomhaireacht Eorpach Chomhshaoil",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and % 20 teo% 20 teocht"
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Astaíochtaí%20gás%20glais%20ó%20AE,sector%20téimh%20agus%20teochtaí%20níosteo"
 }

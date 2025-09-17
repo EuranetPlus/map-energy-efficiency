@@ -1,6 +1,6 @@
 {
-  "heading": "Hoe is de uitstoot van broeikasgassen door het energieverbruik in gebouwen in de hele EU veranderd?",
-  "subheading": "Procentuele verandering in de uitstoot van fossiele brandstoffen die in gebouwen worden gebruikt tussen 2005 en 2021. De totale broeikasgasemissies van gebouwen in de EU zijn in de periode 2005-2021 met 22% afgenomen.",
+  "heading": "Renovatie van energiezuinigere gebouwen: waar staan we?",
+  "subheading": "Kaart met de procentuele verandering in de uitstoot van fossiele brandstoffen die in gebouwen worden gebruikt tussen 2005 en 2022. De uitstoot van broeikasgassen door energieverbruik in gebouwen is in deze periode met 34% gedaald.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
@@ -8,5 +8,5 @@
   "textNoteDescription": "Opmerking",
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20warmer%20temperaturen"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }

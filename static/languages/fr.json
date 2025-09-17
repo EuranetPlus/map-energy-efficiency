@@ -1,12 +1,12 @@
 {
-  "heading": "Comment les émissions de gaz à effet de serre liées à la consommation d’énergie des bâtiments ont-elles évolué dans l’UE ?",
-  "subheading": "Variation en pourcentage des émissions provenant des combustibles fossiles utilisés dans les bâtiments entre 2005 et 2021. Les émissions totales de GES de l'UE provenant des bâtiments ont diminué de 22 % au cours de la période 2005-2021.",
-  "legend1": "Pas de données disponibles",
+  "heading": "Rénover pour des bâtiments plus économes en énergie : où en est-on ?",
+  "subheading": "Carte montrant l’évolution en pourcentage des émissions provenant des combustibles fossiles utilisés dans les bâtiments entre 2005 et 2022. Les émissions de gaz à effet de serre liées à la consommation d’énergie dans les bâtiments ont diminué de 34 % au cours de cette période.",
+  "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Agence européenne pour l'environnement",
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20températures%20plus chaudes"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Émissions%20de%20gaz%20à%20effet%20de%20serre%20de%20l'UE,%20secteurs%20de%20chauffage%20et%20températures%20plus%20chaudes"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Как се промениха емисиите на парникови газове от използването на енергия в сгради в ЕС?",
-  "subheading": "Процентна промяна в емисиите от изкопаеми горива, използвани в сгради между 2005 г. и 2021 г. Общите емисии на парникови газове в ЕС от сгради са намалели с 22% през периода 2005-2021 г.",
-  "legend1": "Няма данни",
+  "heading": "Реновиране за по-енергийно ефективни сгради: къде се намираме?",
+  "subheading": "Карта, показваща процентната промяна в емисиите от изкопаеми горива, използвани в сградите, между 2005 и 2022 г. Емисиите на парникови газове от потреблението на енергия в сградите са намалели с 34% през този период.",
+  "legend1": "Няма налични данни",
   "tooltip1": "",
   "textSourceDescription": "Източник",
   "textSource": "Европейска агенция по околна среда",
   "textNoteDescription": "Забележка",
   "textNote": "",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20по-топли%20температури"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%20and%20warmer%20temperature"
 }

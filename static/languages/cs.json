@@ -1,12 +1,12 @@
 {
-  "heading": "Jak se v celé EU změnily emise skleníkových plynů ze spotřeby energie v budovách?",
-  "subheading": "Procentuální změna emisí z fosilních paliv používaných v budovách v letech 2005 až 2021. Celkové emise skleníkových plynů z budov v EU se v období 2005–2021 snížily o 22 %.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Renovace pro energeticky úspornější budovy: jaká je naše situace?",
+  "subheading": "Mapa znázorňující procentuální změnu emisí z fosilních paliv používaných v budovách mezi lety 2005 a 2022. Emise skleníkových plynů ze spotřeby energie v budovách se za toto období snížily o 34 %.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Evropská agentura pro životní prostředí",
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20teplejší%20teploty"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%20and%20warmer%20temperature"
 }

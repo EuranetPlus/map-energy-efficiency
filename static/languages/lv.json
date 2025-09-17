@@ -1,12 +1,12 @@
 {
-  "heading": "Kā visā ES mainījās siltumnīcefekta gāzu emisijas no enerģijas izmantošanas ēkās?",
-  "subheading": "Ēkās izmantotā fosilā kurināmā radīto emisiju procentuālās izmaiņas laikā no 2005. līdz 2021. gadam. Kopējās ES SEG emisijas no ēkām laikposmā no 2005. līdz 2021. gadam samazinājās par 22 %.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Ēku renovācija energoefektīvāku ēku sasniegšanai: kāda ir pašreizējā situācija?",
+  "subheading": "Karte, kurā parādītas ēkās izmantotā fosilā kurināmā emisiju procentuālās izmaiņas laikā no 2005. līdz 2022. gadam. Siltumnīcefekta gāzu emisijas no enerģijas patēriņa ēkās šajā periodā ir samazinājušās par 34 %.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Vides aģentūra",
   "textNoteDescription": "Piezīme",
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and %20siltāka %20temperatūra"
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }
