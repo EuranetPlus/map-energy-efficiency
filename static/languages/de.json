@@ -1,12 +1,12 @@
 {
   "heading": "Sanierung für energieeffizientere Gebäude: Wo stehen wir?",
-  "subheading": "Die Karte zeigt die prozentuale Veränderung der Emissionen aus fossilen Brennstoffen, die in Gebäuden zwischen 2005 und 2022 verwendet werden. Die Treibhausgasemissionen aus dem Energieverbrauch in Gebäuden sind in diesem Zeitraum um 34 % gesunken.",
+  "subheading": "Die Karte zeigt die prozentuale Veränderung der Emissionen aus fossilen Brennstoffen, die in Gebäuden verwendet werden, zwischen 2005 und 2023. Die Treibhausgasemissionen aus dem Energieverbrauch in Gebäuden sind in diesem Zeitraum um 31 % gesunken.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
-  "textSource": "Europäische Umweltagentur (2022)",
+  "textSource": "Europäische Umweltagentur (2023)",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emissions-from-energy#:~:text=Greenhouse%20gas%20emissions%20from%20EU,heating%20sectors%2C%20and%20warmer%20temperatures"
 }
